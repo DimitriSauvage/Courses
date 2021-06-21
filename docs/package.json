@@ -1,0 +1,19 @@
+{
+  "name": "Courses",
+  "version": "0.0.1",
+  "description": "Dimitri SAUVAGE courses",
+  "main": "index.js",
+  "authors": {
+    "name": "Dimitri SAUVAGE",
+    "email": "dimitri1993@live.fr"
+  },
+  "repository": "git@github.com:DimitriSauvage/Courses.git/Courses",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
